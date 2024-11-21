@@ -52,4 +52,4 @@ if st.button("Predict Sentiment"):
 
 # Footer message
 st.markdown("---")
-st.markdown("**Note:** This web app is optimized for both desktop and mobile devices.Remeber the model is trained on IMDB 50K dataset so type accordingly although It can perform for other tasks too")
+st.markdown("**Note:** This web app is optimized for both desktop and mobile devices.Remeber the model is trained on IMDB 50K movies dataset so type accordingly although It can perform for other tasks too.")
