@@ -11,8 +11,9 @@ st.set_page_config(page_title="Sentiment Analysis", layout="centered", initial_s
 model = load_model('model.keras')
 
 # Load the tokenizer from the pickle file
-with open('tokenizer.pkl', 'rb') as f:
+with open('./tokenizer.pkl', 'rb') as f:
     tokenizer = pickle.load(f)
+
 
 # Main function to predict sentiment
 def predict_sentiment(text):
