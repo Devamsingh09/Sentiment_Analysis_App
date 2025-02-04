@@ -1,4 +1,6 @@
 IMDB Movie Review Sentiment Analysis
+![combined_image](https://github.com/user-attachments/assets/69a1e921-11cc-4d0f-94a9-ff7f8d85b2d9)
+
 
 Overview
 
