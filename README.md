@@ -116,4 +116,6 @@ Sentiment_Analysis_App/
 Conclusion
 
 Through this project, I explored multiple machine learning and deep learning techniques for sentiment classification. The LSTM model, leveraging sequential text processing, achieved the best performance, making it the most suitable model for this task.
+Tackled overfitting issue:
+<img width="472" alt="model1_history" src="https://github.com/user-attachments/assets/32fec655-3bf1-4857-8eb7-2a8a5e2a5151" />
 
