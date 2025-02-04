@@ -128,3 +128,13 @@ After:
 
 <img width="461" alt="final_model_history" src="https://github.com/user-attachments/assets/d5598316-a3b8-40ae-8e64-56a04660274d" />
 
+
+
+
+
+Confusion Matrix:
+
+
+<img width="422" alt="confusion_matrix" src="https://github.com/user-attachments/assets/029c23e2-1dac-4c1b-853f-699905c5c3f1" />
+
+
