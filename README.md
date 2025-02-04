@@ -134,7 +134,12 @@ Before:
 
 After:
 
-<img width="461" alt="final_model_history" src="https://github.com/user-attachments/assets/d5598316-a3b8-40ae-8e64-56a04660274d" />
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/854a8d4e-6f5c-4941-b936-f4749e7f7384" />
+
+
+
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/e28c8a21-56d8-4388-ac08-e5816fd51ea1" />
+
 
 
 
@@ -143,6 +148,7 @@ After:
 Confusion Matrix:
 
 
-<img width="422" alt="confusion_matrix" src="https://github.com/user-attachments/assets/029c23e2-1dac-4c1b-853f-699905c5c3f1" />
+<img width="435" alt="image" src="https://github.com/user-attachments/assets/aca0a932-94ea-474d-91fd-46bf96f5f23d" />
+
 
 
