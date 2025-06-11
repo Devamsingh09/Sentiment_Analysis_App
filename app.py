@@ -8,7 +8,12 @@ import pickle
 st.set_page_config(page_title="Sentiment Analysis", layout="centered", initial_sidebar_state="collapsed")
 
 # Load the pre-trained model
-model = load_model('model.keras')
+try:
+    model = load_model('model.keras', compile=False)
+except Exception as e:
+    st.error(f"Failed to load model: {e}")
+    st.stop()
+
 
 # Load the tokenizer from the pickle file
 with open('./tokenizer.pkl', 'rb') as f:
